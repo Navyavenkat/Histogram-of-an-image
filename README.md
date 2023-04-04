@@ -96,7 +96,8 @@ cv2.destroyAllWindows()
 
 ### Histogram Equalization of Grayscale Image
  
-![GITHUB](d4.PNG)
+![image](https://user-images.githubusercontent.com/94165327/229688105-71373a87-d591-4d3c-bda3-26d77567a600.png)
+
 
 ![GITHUB](d5.PNG)
 
